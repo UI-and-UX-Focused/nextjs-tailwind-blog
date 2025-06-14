@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
 # Tailwind Nextjs Starter Blog
@@ -342,3 +343,7 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 ## Licence
 
 [MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/main/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+=======
+# nextjs-tailwind-blog
+A responsive and customizable personal blog built with Next.js and Tailwind CSS. Features include markdown posts, dark mode, and SEO – perfect for developers like Lazizbek Sheryigitov.
+>>>>>>> acf648b61fcd2eed7c492d521ddf1a90a4f99505
